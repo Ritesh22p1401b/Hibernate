@@ -10,9 +10,9 @@ public class Main {
     public static void main(String[] args) {
 
         Student s1 = new Student();
-        s1.setId(1001);
-        s1.setName("Ritesh");
-        s1.setTech("Java");
+        s1.setId(1004);
+        s1.setName("Ashish");
+        s1.setTech("C++");
 
 
         Configuration config = new Configuration();
